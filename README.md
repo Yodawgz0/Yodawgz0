@@ -7,9 +7,9 @@
 
 🌱 Extras: I am also pursuing fluency Spanish language and in my stage of exploring world.
 
-🖼 FrameWorks: Ant-Design, Bootstrap, React-Bootstrap, Material UI.
+🖼 TodoList : VueJS, RxJS, Azure DevOps
 
-🧑‍🏫 Learning in progrss: MongoDB, Mongoose, ExpressJS, NoSQL, NodeJS.
+🧑‍🏫 Learning in progrss: MongoDB, Mongoose, ExpressJS, NodeJS.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
