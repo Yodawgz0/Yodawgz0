@@ -3,13 +3,13 @@
 ##  Hi, I am a React/Frontend Developer 👩‍💻
 
 
-🔭 Highlights: Currently I am a student at Indiana University Bloomington. I am using Styled Components,React/Redux,TypeScript,React Native,Material UI5,Git,Gitlab,Figma & ExpressJS.
+🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I am using Styled Components,React/Redux,TypeScript,React Native,Material UI5,Git,Gitlab,Figma & ExpressJS.
 
 🌱 Extras: I am also pursuing fluency Spanish language and in my stage of exploring world.
 
 🖼 TodoList : VueJS, RxJS, Azure DevOps
 
-🧑‍🏫 Learning in progrss: MongoDB, Mongoose, ExpressJS, NodeJS.
+🧑‍🏫 Learning in progress: MongoDB, Mongoose, ExpressJS, NodeJS.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
