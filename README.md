@@ -5,11 +5,11 @@
 
 🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I am using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
 
-🌱 Extras: I am also pursuing fluency Spanish language and in my stage of exploring the world.
+🌱 Extras: I am also pursuing fluency Spanish language and am in my stage of exploring the world.
 
-🖼 TodoList: VueJS, RxJS, Azure DevOps
+🖼 TodoList: Something spicy like Kubernetes and docker plays
 
-🧑‍🏫 Learning in progress: MongoDB, Mongoose, ExpressJS, NodeJS.
+🧑‍🏫 Learning in progress: Websockets!! using VuejS, basically chat app but scalable using Redis
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
