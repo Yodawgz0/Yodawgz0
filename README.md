@@ -1,5 +1,7 @@
 # Ashley
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranvirsv&label=Profile%20views&color=0e75b6&style=flat" alt="ranvirsv" /> </p>
+
 ##  Hi, I am a FullStack Developer 👩‍💻
 
 
