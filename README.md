@@ -1,6 +1,6 @@
 # Ashley
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranvirsv&label=Profile%20views&color=0e75b6&style=flat" alt="ranvirsv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yodawgz0&label=Profile%20views&color=0e75b6&style=flat" alt="yodawgz0" /> </p>
 
 ##  Hi, I am a FullStack Developer 👩‍💻
 
