@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yodawgz0&label=Profile%20views&color=0e75b6&style=flat" alt="yodawgz0" /> </p>
 
-##  Hi, I am a FullStack Developer 👩‍💻
+##  Hi, I am a FullStack/ Application / Software Developer 👩‍💻
 
 
 🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
