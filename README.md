@@ -7,6 +7,7 @@
 
 🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
 
+
 🌱 Extras: I am also pursuing fluency Spanish language and am in my stage of exploring the world.
 
 🖼 TodoList: Something spicy like Kubernetes and docker plays
