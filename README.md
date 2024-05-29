@@ -7,14 +7,13 @@
 
 🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
 
+🖼 TodoList: Maybe into RUST ?
+
+🧑‍🏫 Learning in progress: Go Lang + Hadoop/ Spark
+
+🗄️ Databases : Redis, MongoDB, Cassandra, Sqlite3, Firebase, Firestore, Cassandra
 
 🌱 Extras: I am also pursuing fluency Spanish language and am in my stage of exploring the world.
-
-🖼 TodoList: Something spicy like Kubernetes and docker plays
-
-🧑‍🏫 Learning in progress: Websockets!! using Cassandra nodes clusters and Go server
-
-🗄️ Databases : Redis, MongoDB, Cassandra, Sqlite3, Firebase, Firestore
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
