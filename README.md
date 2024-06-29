@@ -9,7 +9,7 @@
 
 🖼 TodoList: Maybe into IOS / ANDRIOD Dev
 
-🧑‍🏫 Learning in progress: Go Lang + Hadoop/ Spark
+🧑‍🏫 Learning in progress: React Native - Kotlin - IOS - Android
 
 🗄️ Databases : Redis, MongoDB, Cassandra, Sqlite3, Firebase, Firestore, Cassandra
 
