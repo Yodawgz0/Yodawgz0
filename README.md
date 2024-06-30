@@ -9,7 +9,7 @@
 
 🖼 TodoList: Maybe into IOS / ANDRIOD Dev
 
-🧑‍🏫 Learning in progress: React Native - Kotlin - IOS - Android
+🧑‍🏫 Learning in progress: React Native - Kotlin - IOS - Android - JetPack Compose
 
 🗄️ Databases : Redis, MongoDB, Cassandra, Sqlite3, Firebase, Firestore, Cassandra
 
