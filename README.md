@@ -7,7 +7,7 @@
 
 🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
 
-🖼 TodoList: Maybe into IOS / ANDRIOD Dev
+🖼 TodoList: Maybe into IOS / ANDRIOD Dev , REACT NATIVE is good
 
 🧑‍🏫 Learning in progress: React Native - Kotlin - IOS - Android - JetPack Compose
 
