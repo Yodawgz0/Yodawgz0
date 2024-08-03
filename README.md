@@ -5,15 +5,15 @@
 ##  Hi, I am a FullStack/ Application / Software Developer 👩‍💻
 
 
-🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
+🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I am well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
 
-🖼 TodoList: Maybe into IOS / ANDRIOD Dev , REACT NATIVE is good
+🖼 TodoList: Maybe into IOS / ANDRIOD Dev, REACT NATIVE is struggle now but upgrades are nice
 
 🧑‍🏫 Learning in progress: React Native - Kotlin - IOS - Android - JetPack Compose
 
-🗄️ Databases : Redis, MongoDB, Cassandra, Sqlite3, Firebase, Firestore, Cassandra
+🗄️ Databases: Redis, MongoDB, Cassandra, Sqlite3, Firebase, Firestore, Cassandra
 
-🌱 Extras: I am also pursuing fluency Spanish language and am in my stage of exploring the world.
+🌱 Extras: I am also pursuing fluency in the Spanish language and am in my stage of exploring the world.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me on:
 <p align="left">
