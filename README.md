@@ -7,9 +7,9 @@
 
 🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I am well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
 
-🖼 TodoList: Maybe into IOS / ANDRIOD Dev, REACT NATIVE is struggle now but upgrades are nice
+🖼 TodoList: Understanding the data collections and database design development
 
-🧑‍🏫 Learning in progress: React Native - Kotlin - IOS - Android - JetPack Compose
+🧑‍🏫 Learning in progress: React Native - IOS - ANDRIOD, basically cross-platform development , and who knew? GPT wrappers are easy
 
 🗄️ Databases: Redis, MongoDB, Cassandra, Sqlite3, Firebase, Firestore, Cassandra
 
