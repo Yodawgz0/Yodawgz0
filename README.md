@@ -5,9 +5,9 @@
 ##  Hi, I am a FullStack/ Application / Software Developer 👩‍💻
 
 
-🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I am well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Material UI5, Git, Gitlab, Figma & ExpressJS.
+🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I am well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Ant-D, Git, Gitlab, Figma & ExpressJS.
 
-🖼 TodoList: Understanding the data collections and database design development
+🖼 TodoList: Understand of Cloud Infra , DevOps Majorly terraform
 
 🧑‍🏫 Learning in progress: React Native - IOS - ANDRIOD, basically cross-platform development , and who knew? GPT wrappers are easy
 
