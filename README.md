@@ -4,7 +4,7 @@
 
 ##  Hi, I am a FullStack/ Application / Software Developer / Mobile Application Developer (IOS/Android) 👩‍💻
 
-🔭 Highlights: Currently I am a Graduate student at Indiana University Bloomington. I am well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Ant-D, Git, Gitlab, Figma & ExpressJS.
+🔭 Highlights: Master's Degree from  Indiana University Bloomington. I am well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Ant-D, Git, Gitlab, Figma & ExpressJS.
 
 🖼 TodoList: Understand of Cloud Infra , CLOUD CLOUD AND CLOUD Majorly terraform , OpenAI apis are cool
 
