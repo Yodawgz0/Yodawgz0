@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yodawgz0&label=Profile%20views&color=0e75b6&style=flat" alt="yodawgz0" /> </p>
 
-##  Hi, I am a FullStack/ Application / Software Developer / Mobile Application Developer (IOS/Android) 👩‍💻
+##  Hi, I am a FullStack/ Application / Software Developer / Cross-Mobile Application Developer (IOS/Android) 👩‍💻
 
 🔭 Highlights: Master's Degree from  Indiana University Bloomington. I am well versed in using Styled Components, VueJS, React/Redux, TypeScript,React Native, Ant-D, Git, Gitlab, Figma & ExpressJS.
 
